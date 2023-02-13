@@ -885,12 +885,6 @@ updates:
       day: "wednesday"
     open-pull-requests-limit: 5
   - package-ecosystem: "nuget"
-    directory: "/samples/snippets/csharp/safe-efficient-code/benchmark" #benchmark.csproj
-    schedule:
-      interval: "weekly"
-      day: "wednesday"
-    open-pull-requests-limit: 5
-  - package-ecosystem: "nuget"
     directory: "/samples/snippets/csharp/tutorials/nullable-reference-migration/finished/SimpleFeedReader.Tests" #SimpleFeedReader.Tests.csproj
     schedule:
       interval: "weekly"
@@ -1203,7 +1197,7 @@ updates:
       day: "wednesday"
     open-pull-requests-limit: 5
   - package-ecosystem: "nuget"
-    directory: "/samples/snippets/visualbasic/VS_Snippets_CLR/HowToDecryptXMLElementAsymmetric/vb" #decryptxml.vbproj
+    directory: "/samples/snippets/visualbasic/VS_Snippets_ADO.NET/DP LINQ to DataSet Examples/VB" #LINQtoDataSetExamplesVB.vbproj
     schedule:
       interval: "weekly"
       day: "wednesday"
